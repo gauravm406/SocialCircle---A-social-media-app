@@ -54,7 +54,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Express js
 - Mongo db 
 ## Live Demo
-https://magical-bienenstitch-2b7d7a.netlify.app/
+https://dainty-sunshine-355004.netlify.app
 ## Authors
 
 @gauravmasalkar405
